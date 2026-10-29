@@ -1,0 +1,10 @@
+-rw-r--r-- 1 root root      0 Oct 28 18:37 /tmp/dl.log
+-rw-r--r-- 1 root root     74 Oct 29 16:29 /tmp/h.txt
+-rw-r--r-- 1 root root 305267 Oct 29 06:48 /tmp/krig.log
+-rw-r--r-- 1 root root     55 Oct 29 16:26 /tmp/pm.log
+-rw-r--r-- 1 root root     55 Oct 29 16:27 /tmp/pm2.log
+-rw-r--r-- 1 root root     55 Oct 29 16:31 /tmp/pm3.log
+-rw-r--r-- 1 root root     55 Oct 29 16:38 /tmp/pm4.log
+-rw-r--r-- 1 root root     85 Oct 29 16:40 /tmp/x.log
+-rw-r--r-- 1 root root     85 Oct 29 16:42 /tmp/x2.log
+-rw-r--r-- 1 root root     85 Oct 29 16:44 /tmp/x3.log
