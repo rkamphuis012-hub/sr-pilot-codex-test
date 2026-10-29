@@ -1,0 +1,6 @@
+5
+53768
+53771
+
+16:57:58.707 GPU0 01:00.0 GB10: 100.24 TH/s 1/0/0 1.03 TH/W 97W 80C n/a n/a 2301 (+0) n/a
+16:57:58.708 Total: 100.24 TH/s shares: 1 accepted 0 stale 0 rejected
