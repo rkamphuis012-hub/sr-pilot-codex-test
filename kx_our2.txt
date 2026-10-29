@@ -1,0 +1,17 @@
+16:56:28.471 krig-miner v1.5.7
+16:56:28.493 GPU ordinal 0 (NVIDIA GB10): integrated GPU — included (--amd-igpu)
+16:56:28.493 ada tile: kernel=128x128/4-warp (k_transcript_consumer) pattern=H100 (shape dgx-spark, w8 requested=False, available=False)
+
+16:56:28.493 GPU0 01:00.0 GB10
+
+16:56:28.703 connected: stratum+ssl://prl-sg.kryptex.network:8048
+16:56:28.703 stratum: new job d540d199_2097152 height 135483
+16:56:28.704 pool prl-sg.kryptex.network:8048: devfee 0%
+16:56:39.367 stratum: new job 8abf9ae5_2097152 height 135483
+16:56:49.457 share accepted: GPU0 55ms
+
+16:56:58.705 GPU0 01:00.0 GB10: 102.00 TH/s 1/0/0 996 GH/W 102W 72C n/a n/a 2333 (+0) n/a
+16:56:58.706 Total: 102.00 TH/s shares: 1 accepted 0 stale 0 rejected
+
+16:57:28.706 GPU0 01:00.0 GB10: 100.62 TH/s 1/0/0 1.02 TH/W 99W 77C n/a n/a 2307 (+0) n/a
+16:57:28.706 Total: 100.62 TH/s shares: 1 accepted 0 stale 0 rejected
