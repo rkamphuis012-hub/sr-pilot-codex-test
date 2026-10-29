@@ -1,0 +1,4 @@
+/tmp/krig.ok
+/tmp/krig-miner
+/tmp/krig.log
+/tmp/krig.tgz
