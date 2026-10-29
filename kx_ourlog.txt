@@ -1,0 +1,20 @@
+16:54:52.038 krig-miner v1.5.7
+16:54:52.060 GPU ordinal 0 (NVIDIA GB10): integrated GPU — included (--amd-igpu)
+16:54:52.061 ada tile: kernel=128x128/4-warp (k_transcript_consumer) pattern=H100 (shape dgx-spark, w8 requested=False, available=False)
+
+16:54:52.061 GPU0 01:00.0 GB10
+
+16:54:52.239 warn: stratum: connection closed by pool (EOF)
+16:54:52.253 warn: pool prl-sg.kryptex.network:8048 failed (pool closed connection before authorize reply) — retrying in 5.7s (attempt 1)
+16:54:57.922 GPU ordinal 0 (NVIDIA GB10): integrated GPU — included (--amd-igpu)
+16:54:57.922 ada tile: kernel=128x128/4-warp (k_transcript_consumer) pattern=H100 (shape dgx-spark, w8 requested=False, available=False)
+16:54:58.098 warn: stratum: connection closed by pool (EOF)
+16:54:58.110 warn: pool prl-sg.kryptex.network:8048 failed (pool closed connection before authorize reply) — retrying in 12.5s (attempt 2)
+16:55:10.569 GPU ordinal 0 (NVIDIA GB10): integrated GPU — included (--amd-igpu)
+16:55:10.569 ada tile: kernel=128x128/4-warp (k_transcript_consumer) pattern=H100 (shape dgx-spark, w8 requested=False, available=False)
+16:55:10.730 warn: stratum: connection closed by pool (EOF)
+16:55:10.742 warn: pool prl-sg.kryptex.network:8048 failed (stratum authorize rejected: Invalid login) — retrying in 17.9s (attempt 3)
+16:55:28.667 GPU ordinal 0 (NVIDIA GB10): integrated GPU — included (--amd-igpu)
+16:55:28.667 ada tile: kernel=128x128/4-warp (k_transcript_consumer) pattern=H100 (shape dgx-spark, w8 requested=False, available=False)
+16:55:28.801 warn: stratum: connection closed by pool (EOF)
+16:55:28.813 warn: pool prl-sg.kryptex.network:8048 failed (stratum authorize rejected: Invalid login) — retrying in 42.3s (attempt 4)
