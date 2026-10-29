@@ -1,0 +1,6 @@
+aarch64
+---
+NVIDIA GB10, [N/A]
+aarch64
+---
+NVIDIA GB10, [N/A]
